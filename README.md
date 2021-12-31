@@ -8,6 +8,9 @@ __Ted Hagos__
 * About [Kotlin](https://developer.android.com/kotlin)
 * Installing [IntelliJ](https://www.jetbrains.com/idea/download/)
   * Installing Java SDK
+    * Java SDK can be installed from intelliJ idea
   * Installing Kotlin
+    * Kotlin support is built-in intelliJ idea
 * Creating a Project
+  * Launch intellij and create a new kotlin project
 * Summary
